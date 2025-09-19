@@ -1,4 +1,4 @@
-Experiment on Image Reproduction using Text-to-Image Generation
+
 # Ex.No: 8
 **Date:** 19-09-2025
 **Register No.:** 212223030021
