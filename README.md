@@ -64,7 +64,6 @@ To demonstrate the ability of **text-to-image generation tools** to reproduce an
 3. `A modern city skyline at night with skyscrapers, neon lights, reflections on water, cinematic lighting, in realistic digital art style.`
 
 **Generated Image:**
-![Generated City](generated_city.jpg)
 
 **Comparison Report:**
 - ✅ Lighting and neon tones reproduced effectively.
